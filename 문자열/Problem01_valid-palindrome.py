@@ -1,3 +1,4 @@
+#https://leetcode.com/problems/valid-palindrome/
 #Solution1 : list로 변환
 def isPalindrome(self, s: str) -> bool:
         strs = []
