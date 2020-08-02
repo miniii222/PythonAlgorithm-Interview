@@ -39,6 +39,11 @@ a['C'] += 1
 ```
 a에 존재하지 않는 C라는 key를 불러와도 에러가 나지 않고, default value 0으로 삽입.
 
+```
+mydict = collections.defaultdict(list)
+```
+빈 dict 선언
+
 #### Counter
 ```
 collections.Coutner(a)
