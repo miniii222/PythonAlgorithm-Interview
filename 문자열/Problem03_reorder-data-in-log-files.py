@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/reorder-data-in-log-files/
+#출처 : https://github.com/onlybooks/algorithm-interview
 # Solution : 람다와 +연산자를 이용
 # 아이디어는 나와 동일. 좀 더 정돈된 코드
 

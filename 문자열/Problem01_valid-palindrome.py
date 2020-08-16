@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/valid-palindrome/
+#출처 : https://github.com/onlybooks/algorithm-interview
 #Solution1 : list로 변환
 def isPalindrome(self, s: str) -> bool:
         strs = []
