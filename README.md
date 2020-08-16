@@ -11,7 +11,7 @@ def get_natural_number() :
     yield n
     
 g = get_natural_number()
-for _ in rnage(100):
+for _ in range(100):
   print(next(g))
 ```
 
