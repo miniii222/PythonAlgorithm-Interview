@@ -25,7 +25,7 @@ b = range(100000)
 ```
 라고 했을 때, 길이가 같고, 인덱스로 접근 역시 가능하지만, 차지하는 메모리가 b 가 훨씬 적다.
 
-###print format
+### print format
 ```
 print(f'{idx + 1} : {fruit}')
 ```
